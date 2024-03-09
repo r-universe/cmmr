@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "fillpattern"]
+	path = fillpattern
+	url = https://github.com/cmmr/fillpattern
 [submodule "rbiom"]
 	path = rbiom
 	url = https://github.com/cmmr/rbiom
