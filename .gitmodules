@@ -8,3 +8,6 @@
 [submodule "rbiom"]
 	path = rbiom
 	url = https://github.com/cmmr/rbiom
+[submodule "semaphore"]
+	path = semaphore
+	url = https://github.com/cmmr/semaphore
