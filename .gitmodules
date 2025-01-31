@@ -5,6 +5,9 @@
 [submodule "fillpattern"]
 	path = fillpattern
 	url = https://github.com/cmmr/fillpattern
+[submodule "jobqueue"]
+	path = jobqueue
+	url = https://github.com/cmmr/jobqueue
 [submodule "rbiom"]
 	path = rbiom
 	url = https://github.com/cmmr/rbiom
