@@ -17,6 +17,3 @@
 [submodule "semaphore"]
 	path = semaphore
 	url = https://github.com/cmmr/semaphore
-[submodule "webqueue"]
-	path = webqueue
-	url = https://github.com/cmmr/webqueue
