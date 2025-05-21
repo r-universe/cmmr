@@ -1,8 +1,0 @@
-[
-  {
-    "package": "interprocess",
-    "url": "https://github.com/cmmr/interprocess",
-    "via": ["jobqueue"],
-    "from": "jobqueue"
-  }
-]
