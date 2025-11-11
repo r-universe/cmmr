@@ -8,6 +8,9 @@
 [submodule "fillpattern"]
 	path = fillpattern
 	url = https://github.com/cmmr/fillpattern
+[submodule "hdf5lib"]
+	path = hdf5lib
+	url = https://github.com/cmmr/hdf5lib
 [submodule "interprocess"]
 	path = interprocess
 	url = https://github.com/cmmr/interprocess
