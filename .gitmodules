@@ -8,6 +8,10 @@
 [submodule "fillpattern"]
 	path = fillpattern
 	url = https://github.com/cmmr/fillpattern
+[submodule "h5lite"]
+	path = h5lite
+	url = https://github.com/cmmr/h5lite
+	registered = false
 [submodule "hdf5lib"]
 	path = hdf5lib
 	url = https://github.com/cmmr/hdf5lib
