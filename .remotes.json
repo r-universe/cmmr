@@ -12,6 +12,12 @@
     "from": "rbiom"
   },
   {
+    "package": "hdf5lib",
+    "url": "https://github.com/cmmr/hdf5lib",
+    "via": ["h5lite"],
+    "from": "h5lite"
+  },
+  {
     "package": "interprocess",
     "url": "https://github.com/cmmr/interprocess",
     "via": ["jobqueue"],
