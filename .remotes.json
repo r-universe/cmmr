@@ -1,5 +1,11 @@
 [
   {
+    "package": "ecodive",
+    "url": "https://github.com/cmmr/ecodive",
+    "via": ["rbiom"],
+    "from": "rbiom"
+  },
+  {
     "package": "interprocess",
     "url": "https://github.com/cmmr/interprocess",
     "via": ["jobqueue"],
